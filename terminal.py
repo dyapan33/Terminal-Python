@@ -1,9 +1,9 @@
+#Importing Packages
 import os
 import sys
-from tkinter import *
 
 
-
+#Actual code
 while True:
         #we need to add a input
         command = input('>> ')
