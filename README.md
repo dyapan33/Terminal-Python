@@ -1,2 +1,2 @@
 # Terminal-Python
-Want To Make Your Own Python Terminal? Come Here!
+Want to make your own python terminal? Come here!
